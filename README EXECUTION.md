@@ -1,0 +1,1 @@
+python train.py --data uom_hw_aug.yaml --epochs 300 --weights weights/yolov5s.pt  --batch-size 64 --img 640
